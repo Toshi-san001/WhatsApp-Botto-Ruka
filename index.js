@@ -110,11 +110,11 @@ welcome to ~> ${metadata.subject}
 
 PREFIX:~ { # }
 
-OWNER:~ Das-Kun ( iamherok )
+OWNER:~ Toshi-Kun ( Toshi-san001 )
 
 Support us by following us on GitHub:
 
-https://github.com/iamherok
+https://github.com/Toshi-san001
 
 ─「 ･WELCOME･ 」─
 ⎙ GROUP INFO ⎙:
